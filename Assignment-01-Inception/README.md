@@ -27,3 +27,25 @@
 
 <h3>4. Why is React known as React?</h3>
 <p>React is known as React because of it's core concept. It is designed to help developers to build UIs that is fast, responsive, or Reactive.</p>
+
+<h3>5. What is crossorigin in script tag?</h3>
+<p>crossorigin in script tag is an attribute that is used for loading an external script from different domain to their domain. This attribute is used to protect the sensitive information from third party when fetching out the results.</p>
+
+<h3>6. What is the difference between React and ReactDOM?</h3>
+<h4>React</h4>
+<ul>
+  <li>React is a JS library for building UIs.</li>
+  <li>It focuses on the structure of UI components and how they should behave in response to changes in data.</li>
+  <li>React provides the core functionality for defining components, managing component state, and rendering UI elements.</li>
+  <li>You typically use React when developing web and mobile applications to create reusable and interactive UI components.</li>
+</ul>
+<h4>ReactDOM</h4>
+<ul>
+  <li>ReactDOM is a package that specifically deals with rendering React components in web browser environment.</li>
+  <li>It provides the necessary methods and APIs to render React components into the DOM of a web page.</li>
+  <li>ReactDOM is used to bridge the gap between React's virtual DOM and actual DOM, ensuring that React components are displayed and updated on the web page.</li>
+  <li>You use ReactDOM when you want to display React components within a web application.</li>
+</ul>
+
+<h3>7. What is the difference between react.development.js and react.production.js files via CDN</h3>
+<p></p>
