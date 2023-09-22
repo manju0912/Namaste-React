@@ -48,4 +48,15 @@
 </ul>
 
 <h3>7. What is the difference between react.development.js and react.production.js files via CDN</h3>
-<p></p>
+<h4>react.development.js</h4>
+<ul>
+  <li>This file is intended for development purposes.</li>
+  <li>It includes additional runtime checks, warnings, error messages to help developers identify and fix issues in their code.</li>
+</ul>
+<h4>react.production.js</h4>
+<ul>
+  <li>This file is intended for production purposes.</li>
+  <li>It omits the development-specific checks, warnings, error messages to optimize the performance and reduce the file size.</li>
+</ul>
+
+<h3>8. What are async and defer?</h3>
