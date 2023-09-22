@@ -61,3 +61,14 @@
 
 <h3>8. What are async and defer?</h3>
 <p>In context of web development, async and defer are attributes that can be used in script tag to control loading and execution of JavaScript files.</p>
+<h4>async</h4>
+<ul>
+  <li>When you add async attribute to the script tag, it tells the browser to fetch the script asynchronously while HTML parsing continues.</li>
+  <li>The script is downloaded in the background, once it's downloaded, it is executed immediately, potentially before the HTML parsing is complete.</li>
+  <li>This can improve page loading speed because it doesn't block other resources from being downloaded while the script is being fetched.</li>
+  <li>However, scripts with async attribute may execute in an unpredictable order, depending on which one finishes downloading first.</li>
+</ul>
+<h4>defer</h4>
+<ul>
+  <li>The defer attribute also loads the script asynchronously but with a key difference: it defers script execution until after the HTML parsing is complete. </li>
+</ul>
