@@ -70,5 +70,7 @@
 </ul>
 <h4>defer</h4>
 <ul>
-  <li>The defer attribute also loads the script asynchronously but with a key difference: it defers script execution until after the HTML parsing is complete. </li>
+  <li>The defer attribute also loads the script asynchronously but with a key difference: it defers script execution until after the HTML parsing is complete.</li>
+  <li>Multiple scripts with the defer attribute will be executed in the order they appear in the HTML document.</li>
+  <li>This is useful when you need to ensure that certain scripts are executed in a specific order.</li>
 </ul>
