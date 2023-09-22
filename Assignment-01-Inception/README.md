@@ -60,3 +60,4 @@
 </ul>
 
 <h3>8. What are async and defer?</h3>
+<p>In context of web development, async and defer are attributes that can be used in script tag to control loading and execution of JavaScript files.</p>
