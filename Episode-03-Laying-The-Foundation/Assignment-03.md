@@ -20,6 +20,6 @@
 <h3>4. Explain {TitleComponent} vs {<TitleComponent />} vs {<TitleComponent></TitleComponent>} in JSX.</h3>
 <ul>
     <li>{TitleComponent}: This is a way to include component called 'TitleComponent' in JSX. It doesn't render the component itself, instead, it just refers to it.</li>
-    <li>{<TitleComponent />}: It is a way to render an instance of 'TitleComponent' in JSX. It creates and displays the 'TitleComponent' as part of the UI.</li>
-    <li>{<TitleComponent></TitleComponent>}: It's an another way to render an instance of the 'TitleComponent' in JSX. It is same as <TitleComponent />, but written in slightly different syntax.</li>
+    <li>{ <TitleComponent /> }: It is a way to render an instance of 'TitleComponent' in JSX. It creates and displays the 'TitleComponent' as part of the UI.</li>
+    <li>{ <TitleComponent></TitleComponent> }: It's an another way to render an instance of the 'TitleComponent' in JSX. It is same as <TitleComponent />, but written in slightly different syntax.</li>
 </ul>
