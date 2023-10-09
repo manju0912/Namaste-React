@@ -9,12 +9,10 @@
 
 <h3>2. What is the importance of config.js file?</h3>
 <p>The config.js file plays crucial role in managing the application's configuration setting and environments. Here are some of the importance of config.js file:</p>
-<u>
-<li><strong>Centralizes Settings:</strong> config.js file stores important settings like API URLs and keys, keeping them in one place for easy access and updates.<li>
-<li><strong>Manages Environment:</strong> It helps adapt the app to different environments (e.g., development, production) by changing settings in one file.<li>
-<li><strong>Secure Secrets:</strong> Sensitive information like API keys, database credentials, or authentication tokens should never be hard-coded directly into the application's source code. These sensitive info stays safe in config.js file away from code in environment variable making it harder to expose.<li>
-<li><strong>Simplifies Deployment:</strong> You can deploy the same codebase to multiple environments by adjusting config.js, making deployment faster.<li>
-</ul>
+- <strong>Centralizes Settings:</strong> config.js file stores important settings like API URLs and keys, keeping them in one place for easy access and updates.<br/>
+- <strong>Manages Environment:</strong> It helps adapt the app to different environments (e.g., development, production) by changing settings in one file.<br/>
+- <strong>Secure Secrets:</strong> Sensitive information like API keys, database credentials, or authentication tokens should never be hard-coded directly into the application's source code. These sensitive info stays safe in config.js file away from code in environment variable making it harder to expose.<br/>
+- <strong>Simplifies Deployment:</strong> You can deploy the same codebase to multiple environments by adjusting config.js, making deployment faster.<br/>
 
 <h3>3. What are React Hooks?</h3>
 <p>React Hooks are inbuilt-functions that allows us to use state or other React features without using class.Initially, when we need to add or update something in React function component then we had to convert it into classes first. But Hooks can be used directly inside the function component.</p>
