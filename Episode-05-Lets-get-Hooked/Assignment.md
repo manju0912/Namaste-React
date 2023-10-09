@@ -9,7 +9,7 @@
 
 <h3>2. What is the importance of config.js file?</h3>
 <p>The config.js file plays crucial role in managing the application's configuration setting and environments. Here are some of the importance of config.js file:</p>
-<u>
+<ul>
 <li><strong>Centralizes Settings:</strong> config.js file stores important settings like API URLs and keys, keeping them in one place for easy access and updates.<li>
 <li><strong>Manages Environment:</strong> It helps adapt the app to different environments (e.g., development, production) by changing settings in one file.<li>
 <li><strong>Secure Secrets:</strong> Sensitive information like API keys, database credentials, or authentication tokens should never be hard-coded directly into the application's source code. These sensitive info stays safe in config.js file away from code in environment variable making it harder to expose.<li>
