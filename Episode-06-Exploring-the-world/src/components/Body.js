@@ -1,5 +1,4 @@
 import RestaurantCard from "./RestaurantCard";
-
 import { useState, useEffect } from "react";
 import Shimmer from "./Shimmer";
 
@@ -20,8 +19,6 @@ const Body = () => {
         );
         
             const jsonData = await data.json();
-
-            // console.log(jsonData);
 
         setRestaurantList(jsonData?.data?.cards[2]?.card?.card?.gridElements?.infoWithStyle?.restaurants);
         setFilteredRestaurant(jsonData?.data?.cards[2]?.card?.card?.gridElements?.infoWithStyle?.restaurants);
@@ -50,7 +47,6 @@ const Body = () => {
                     <button className="filter-btn" onClick={() => {
                         const filteredList = restaurant.filter(
                             (res) => res.info.avgRating >= 4);
-                            // console.log(filteredList);
                         setRestaurantList([...filteredList]);
                         }}>Top Rated</button>
                 </div>
