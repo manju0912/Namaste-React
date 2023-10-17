@@ -21,3 +21,7 @@ In this episode, we jumped into the coding part. I learned and implemented Funct
 ## <a href="https://github.com/manju0912/Namaste-React/tree/master/Episode-05-Lets-get-Hooked">Episode 05 - Let's Get Hooked</a>
 In this episode, we learned to clean up our folder structure and followed the industry standards to create the folder structure. We learned about Hooks and used useState Hook in the project we build in episode 04. We added a new feature in this episode by creating a filter button for restaurants that is filtering all the restaurants having average rating greater than 4.0.<br/>
 <strong>Assignment 05:</strong> <a href="https://github.com/manju0912/Namaste-React/blob/master/Episode-05-Lets-get-Hooked/Assignment.md">Click Here</a>
+
+## <a href="https://github.com/manju0912/Namaste-React/tree/master/Episode-06-Exploring-the-world">Episode 06 - Exploring The World</a>
+In this episode, we used the live API from swiggy's website and learned how to fetch API using useEffect() Hook. We learned and practiced the useState() hook and importance of state variable. We have added a new feature in this episode where we are filtering the restaurant from the search bar based on the search text.<br/>
+<strong>Assignment 06:</strong> <a href="https://github.com/manju0912/Namaste-React/blob/master/Episode-06-Exploring-the-world/Assignment.md">Click Here</a>
