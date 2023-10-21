@@ -3,48 +3,43 @@
 <h3>1. What are various ways to add images into our App? Explain with code examples.</h3>
 <p>In React, there are several ways to add images.</p>
 <p>1. Using <strong><img></strong> Tag</p>
-<code>
-<img src="image.jpg" alt="" />
-</code>
+<pre>
+ img src="image.jpg" alt=""
+</pre>
 <p>2. Importing Images in JavaScript</p>
-<code>
+<pre>
 import React from 'react';
 import myImage from './assets/image.jpg';
 
 function MyComponent() {
   return (
-    <div>
-      <img src={myImage} alt="" />
-    </div>
+      img src={myImage} alt=""
   );
 }
-
 export default MyComponent;
 
-</code>
+</pre>
 <p>3. Using CSS for Background Images</p>
-<code>
+<pre>
 import React from 'react';
 
 function MyComponent() {
   const divStyle = {
     backgroundImage: 'url(./assets/image.jpg)',
   };
-
   return (
     <div style={divStyle}>
       Content with a background image
     </div>
   );
 }
-
 export default MyComponent;
 
-</code>
+</pre>
 
 <h3>2. What would happen if we do console.log(useState())?</h3>
 <p>If we do console.log(useState()), it will give an output in the console that provides the information about the useState hook in React. The output looks something like this:</p>
-<code>Array [initialStateValue, function]</code>
+<pre>Array [initialStateValue, function]</pre>
 
 <h3>3. How will useEffect behave if we don't add a dependency array?</h3>
 <p>If we don't add a dependency array then the useEffect() hook will be called after every render.</p>
