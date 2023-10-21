@@ -25,3 +25,7 @@ In this episode, we learned to clean up our folder structure and followed the in
 ## <a href="https://github.com/manju0912/Namaste-React/tree/master/Episode-06-Exploring-the-world">Episode 06 - Exploring The World</a>
 In this episode, we used the live API from swiggy's website and learned how to fetch API using useEffect() Hook. We learned and practiced the useState() hook and importance of state variable. We have added a new feature in this episode where we are filtering the restaurant from the search bar based on the search text.<br/>
 <strong>Assignment 06:</strong> <a href="https://github.com/manju0912/Namaste-React/blob/master/Episode-06-Exploring-the-world/Assignment.md">Click Here</a>
+
+## <a href="https://github.com/manju0912/Namaste-React/tree/master/Episode-07-Finding-the-path">Episode 07 - Finding The Path</a>
+In this episode, we studied about React Router DOM amd creates routes to navigate to the different pages. We created a single restaurant page where we displayed all the restaurant info and created routes to the page to navigate from the home page.<br/>
+<strong>Assignment 07:</strong> <a href="https://github.com/manju0912/Namaste-React/blob/master/Episode-07-Finding-the-path/Assignment.md">Click Here</a>
