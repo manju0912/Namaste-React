@@ -9,7 +9,7 @@
 <h3>3. How can I write comments in JSX?</h3>
 <p>To write comments in JSX, we need to put the JS comment inside the curly braces, {}. Here is the syntax: {/* Your Comment Here */}</p>
 
-<h3>4. What is <React.Fragment></React.Fragment> and <></>?</h3>
+<h3>4. What is `<`React.Fragment`>``<`/React.Fragment`>` and <>`<`/>?</h3>
 <p></p>
 
 <h3>5. What is Virtual DOM?</h3>
