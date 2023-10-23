@@ -39,9 +39,9 @@
 - The function passed to useEffect is a callback function. This will be called after the component renders.
 - Inside the arraow function, you can run return a cleanup function if necessary. It is executed before next render. Cleanup function includes such as unsubscribing from an event listener.
 </p>
-<code>
+<pre>
 useEffect(() => {}, []);
-</code>
+</pre>
 
 <h3>5. What is Optional Chaining?</h3>
 <p>It is a feature in JavaScript that allows to access properties of an object without worrying about whether the object is null or undefined.
@@ -94,21 +94,19 @@ export default App;
 <h4>async function</h4>
 <p>It is a special type of JS function that can perform asynchronous operations. You mark a function as `async` by adding the `async` keyword before the `function` keyword in its definition.<br/>
 - In simple terms, async functions are used to write asynchronous code in a more structured and linear way.</p>
-```
+<pre>
 async function fetchData(){
-
 }
-```
+</pre>
 
 <h4>await</h4>
 <p>await is used inside async functions. It tells Javascript to pause the function until the asynchronous operation is finished. Only then it will move to the next line of code.</p>
-```
+<pre>
 async function fetchData() {
   const response = await fetch(URL);
   const data = await response.json();
 }
-
-```
+</pre>
 
 <h3>11. What is the use of 'const json = await data.json();' in getRestaurants() ?</h3>
 <p>It is used to fetch and parse JSON data from HTTP response object. The await keyword here ensures that the function `getRestaurants()` doesn't proceed until the JSON data is available and converted into a usable JavaScript object. The parsed JSON data then be processed or displayed in the rest of the function.</p>
