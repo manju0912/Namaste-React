@@ -21,10 +21,10 @@
 <p>- useState() Hook is a very important Hook in React that is used to declare the State of a variable in React. Normally, variables disappear when we exit a function but state variables are preserved in React.<br/>
 - The only argument we pass to the useState() hook is the initial state. The argument can be either a number or string only. Unlike classes, State doesn't have to be an object.<br/>
 - useState() hook return a pair of values: the current state and the function that updates it.</p>
-<code>
+<pre>
 // importing the hook
 import {useState} from 'react;
 
 // Declaring a state variable
 const [var, setVar] = useState();
-</code>
+</pre>
