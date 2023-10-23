@@ -29,3 +29,7 @@ In this episode, we used the live API from swiggy's website and learned how to f
 ## <a href="https://github.com/manju0912/Namaste-React/tree/master/Episode-07-Finding-the-path">Episode 07 - Finding The Path</a>
 In this episode, we studied about React Router DOM amd creates routes to navigate to the different pages. We created a single restaurant page where we displayed all the restaurant info and created routes to the page to navigate from the home page.<br/>
 <strong>Assignment 07:</strong> <a href="https://github.com/manju0912/Namaste-React/blob/master/Episode-07-Finding-the-path/Assignment.md">Click Here</a>
+
+## <a href="https://github.com/manju0912/Namaste-React/tree/master/Episode-08-lets-get-classy">Episode 08 - Let's Get Classy</a>
+In this episode, we studied about the class based components in React, React Life cycle methods, state variables in class based component etc.<br/>
+<strong>Assignment 08:</strong> <a href="https://github.com/manju0912/Namaste-React/blob/master/Episode-08-lets-get-classy/Assignment.md">Click Here</a>
