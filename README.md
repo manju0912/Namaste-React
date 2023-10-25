@@ -33,3 +33,7 @@ In this episode, we studied about React Router DOM amd creates routes to navigat
 ## <a href="https://github.com/manju0912/Namaste-React/tree/master/Episode-08-lets-get-classy">Episode 08 - Let's Get Classy</a>
 In this episode, we studied about the class based components in React, React Life cycle methods, state variables in class based component etc.<br/>
 <strong>Assignment 08:</strong> <a href="https://github.com/manju0912/Namaste-React/blob/master/Episode-08-lets-get-classy/Assignment.md">Click Here</a>
+
+## <a href="https://github.com/manju0912/Namaste-React/tree/master/Episode-09-Optimising-our-app">Episode 09 - Optimising Our App</a>
+In this episode, we studied about optimization of the app. We learnt about the practices to keep our code clean, readable and modular. We also learnt to create and use custom hooks.<br/>
+<strong>Assignment 08:</strong> <a href="https://github.com/manju0912/Namaste-React/blob/master/Episode-09-Optimising-our-app/Assignment.md">Click Here</a>
