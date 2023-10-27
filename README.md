@@ -37,3 +37,7 @@ In this episode, we studied about the class based components in React, React Lif
 ## <a href="https://github.com/manju0912/Namaste-React/tree/master/Episode-09-Optimising-our-app">Episode 09 - Optimising Our App</a>
 In this episode, we studied about optimization of the app. We learnt about the practices to keep our code clean, readable and modular. We also learnt to create and use custom hooks.<br/>
 <strong>Assignment 08:</strong> <a href="https://github.com/manju0912/Namaste-React/blob/master/Episode-09-Optimising-our-app/Assignment.md">Click Here</a>
+
+## <a href="">Episode 10 - Jo Dikhta hai, Vo Bikta hai</a>
+This episode was all about Tailwind CSS. I learned how to configure and use tailwind css for creating the UI. It is very lightweight UI library and makes the developer work more easy while creating the UI.<br/>
+<strong>Assignment 10:</strong> <a href="">Click Here</a>
