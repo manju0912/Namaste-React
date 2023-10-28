@@ -73,12 +73,12 @@ const RestaurantMenu = () => {
                         {
                             itemCards.map((item) => (
                                 <div className="flex justify-between py-[30px] border-b" key={item.card.info.id}>
-                                    <div className="menu-info">
+                                    <div className="w-10/12 pr-5">
                                         <h4 className="font-medium">{item.card.info.name}</h4>
                                         <p> ₹ {item.card.info.price/100}</p>
-                                        <p className="pr-[100px]">{item.card.info.description}</p>
+                                        <p className="text-gray-600">{item.card.info.description}</p>
                                     </div>
-                                    <div>
+                                    <div className="w-2/12">
                                         <img className="w-[120px] h-[100px] max-w-full rounded-md object-cover" src={IMG_URL + item.card.info.imageId} />
                                     </div>
                                 </div>
