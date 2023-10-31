@@ -41,3 +41,7 @@ In this episode, we studied about optimization of the app. We learnt about the p
 ### <a href="https://github.com/manju0912/Namaste-React/tree/master/Episode-10-Jo-dikhta-hai-vo-bikta-hai">Episode 10 - Jo Dikhta hai, Vo Bikta hai</a>
 This episode was all about Tailwind CSS. I learned how to configure and use tailwind css for creating the UI. It is very lightweight UI library and makes the developer work more easy while creating the UI.<br/>
 <strong>Assignment 10:</strong> <a href="https://github.com/manju0912/Namaste-React/blob/master/Episode-10-Jo-dikhta-hai-vo-bikta-hai/Assignment.md">Click Here</a>
+
+### <a href="https://github.com/manju0912/Namaste-React/tree/master/Episode-11-Data-is-the-new-Oil">Episode 11 - Data is the new Oil</a>
+In this episode, we studied about prop drilling, lifting the state up, React ontext, Context Provider and Context Consumer. We also bild the Accordion from scratch in React to show and hide restaurant menus on the Restaurant Menu page.<br/>
+<strong>Assignment 11:</strong> <a href="https://github.com/manju0912/Namaste-React/blob/master/Episode-11-Data-is-the-new-Oil/Assignment.md">Click Here</a>
