@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.toggle:after{
+    content: "";
+}
+
+.checkbox:checked + .toggle::after{
+    @apply left-[22px];
+}
+
+.checkbox:checked + .toggle{
+    @apply bg-green-800;
+}
