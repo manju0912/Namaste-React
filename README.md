@@ -45,3 +45,7 @@ This episode was all about Tailwind CSS. I learned how to configure and use tail
 ### <a href="https://github.com/manju0912/Namaste-React/tree/master/Episode-11-Data-is-the-new-Oil">Episode 11 - Data is the new Oil</a>
 In this episode, we studied about prop drilling, lifting the state up, React ontext, Context Provider and Context Consumer. We also bild the Accordion from scratch in React to show and hide restaurant menus on the Restaurant Menu page.<br/>
 <strong>Assignment 11:</strong> <a href="https://github.com/manju0912/Namaste-React/blob/master/Episode-11-Data-is-the-new-Oil/Assignment.md">Click Here</a>
+
+### <a href="https://github.com/manju0912/Namaste-React/tree/master/Episode-12-Lets-build-our-store">Episode 12 - Let's Build Our Store</a>
+In this episode, we studied about the state management tool redux. We implemented the concept of Redux Toolkit and React-Redux to our app for building the store.<br/>
+<strong>Assignment 12:</strong> <a href="https://github.com/manju0912/Namaste-React/blob/master/Episode-12-Lets-build-our-store/Assignment.md">Click Here</a>
