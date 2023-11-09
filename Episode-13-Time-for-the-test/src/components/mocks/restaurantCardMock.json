@@ -1,0 +1,71 @@
+{
+    "id": "532213",
+    "name": "Chilli'Z Restro",
+    "cloudinaryImageId": "mzsuzzznrww2mpzwk27d",
+    "locality": "Prem Nagar",
+    "areaName": "Prem Nagar",
+    "costForTwo": "₹300 for two",
+    "cuisines": [
+        "North Indian",
+        "Chinese",
+        "Snacks",
+        "Beverages"
+    ],
+    "avgRating": 3.9,
+    "feeDetails": {
+        "restaurantId": "532213",
+        "fees": [
+            {
+                "name": "BASE_DISTANCE",
+                "fee": 2000
+            },
+            {
+                "name": "BASE_TIME"
+            },
+            {
+                "name": "ANCILLARY_SURGE_FEE"
+            }
+        ],
+        "totalFee": 2000
+    },
+    "parentId": "13645",
+    "avgRatingString": "3.9",
+    "totalRatingsString": "1K+",
+    "sla": {
+        "deliveryTime": 20,
+        "lastMileTravel": 2.1,
+        "serviceability": "SERVICEABLE",
+        "slaString": "20 mins",
+        "lastMileTravelString": "2.1 km",
+        "iconType": "ICON_TYPE_EMPTY"
+    },
+    "availability": {
+        "nextCloseTime": "2023-11-07 23:50:00",
+        "opened": true
+    },
+    "badges": {},
+    "isOpen": true,
+    "type": "F",
+    "badgesV2": {
+        "entityBadges": {
+            "imageBased": {},
+            "textBased": {},
+            "textExtendedBadges": {}
+        }
+    },
+    "aggregatedDiscountInfoV3": {
+        "header": "50% OFF",
+        "subHeader": "UPTO ₹100"
+    },
+    "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+            "lottie": {},
+            "video": {}
+        }
+    },
+    "reviewsSummary": {},
+    "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+    "restaurantOfferPresentationInfo": {}
+}
