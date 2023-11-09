@@ -49,3 +49,7 @@ In this episode, we studied about prop drilling, lifting the state up, React ont
 ### <a href="https://github.com/manju0912/Namaste-React/tree/master/Episode-12-Lets-build-our-store">Episode 12 - Let's Build Our Store</a>
 In this episode, we studied about the state management tool redux. We implemented the concept of Redux Toolkit and React-Redux to our app for building the store.<br/>
 <strong>Assignment 12:</strong> <a href="https://github.com/manju0912/Namaste-React/blob/master/Episode-12-Lets-build-our-store/Assignment.md">Click Here</a>
+
+### <a href="https://github.com/manju0912/Namaste-React/tree/master/Episode-13-Time-for-the-test">Episode 13 - Time for the Test</a>
+In this episode, we studied about the testings (Unit testing and Integration testing). We first set up React Testing Library. Then we wrote some test cases for our components.<br/>
+<strong>Assignment 13:</strong> <a href="https://github.com/manju0912/Namaste-React/blob/master/Episode-13-Time-for-the-test/Assignment.md">Click Here</a>
